@@ -4,10 +4,6 @@ description: "Markdown app that tells your AI agents what you are reading: the o
 author: EdelmarSchneider
 url: https://github.com/EdelmarSchneider/permark
 category: development
-suggest_for:
-  filename:
-    - "*.md"
-    - "*.markdown"
 content:
   - name: PerMark Desktop (Native CLI)
     prerequisites:
